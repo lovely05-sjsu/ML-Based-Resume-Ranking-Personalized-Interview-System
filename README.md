@@ -30,12 +30,6 @@ This project introduces an AI-powered solution to automate two crucial HR proces
 
 ---
 
-## Demo
-
-> A live demo is not deployed, but screenshots are available below.
-
----
-
 ## Tech Stack
 
 - **Language**: Python 3.x
