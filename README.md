@@ -1,10 +1,10 @@
-# 🤖 ML-Based Resume Ranking & Personalized Interview System
+# ML-Based Resume Ranking & Personalized Interview System
 
 This project introduces an AI-powered solution to automate two crucial HR processes: ranking resumes based on their relevance to job descriptions and generating personalized interview questions from candidate profiles. It leverages NLP, ML, and explainability tools to streamline recruitment and reduce human bias.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Demo](#-demo)
@@ -19,24 +19,24 @@ This project introduces an AI-powered solution to automate two crucial HR proces
 
 ---
 
-## ✅ Features
+## Features
 
-- 📄 Automated resume parsing and relevance ranking
-- 🧠 Personalized interview question generation using GPT/T5
-- 📊 Model explainability using SHAP
-- 📈 Supports multiple ML models (Random Forest, XGBoost, etc.)
-- 🖥️ Interactive web interface (built with Streamlit)
-- 🔒 Secure handling of resume and job data
+- Automated resume parsing and relevance ranking
+- Personalized interview question generation using GPT/T5
+- Model explainability using SHAP
+- Supports multiple ML models (Random Forest, XGBoost, etc.)
+- Interactive web interface (built with Streamlit)
+- Secure handling of resume and job data
 
 ---
 
-## 📸 Demo
+## Demo
 
 > A live demo is not deployed, but screenshots are available below.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language**: Python 3.x
 - **Libraries**: scikit-learn, pandas, NumPy, nltk, spaCy, SHAP, Sentence-BERT, HuggingFace Transformers
@@ -46,7 +46,7 @@ This project introduces an AI-powered solution to automate two crucial HR proces
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 # Clone the repo
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Run the Streamlit app:
    ```bash
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Modeling Approach
+## Modeling Approach
 
 - **Resume Ranking**: Semantic similarity using Sentence-BERT & classification via Random Forest/XGBoost.
 - **Interview Generation**: GPT/T5 models used to generate contextually relevant questions.
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 | Main Dashboard | Resume Upload | Result |
 |----------------|----------------|--------|
@@ -92,19 +92,19 @@ pip install -r requirements.txt
 
 ---
 
-## 🙋‍♀️ Contributing
+## Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 - [Devarsh Patel](mailto:devarshnatvarlal.patel@sjsu.edu)
 - [Smit Ardeshana](mailto:smitarvindkumar.ardeshana@sjsu.edu)
@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🔗 References
+## References
 
 Key technologies used:
 - [Sentence-BERT](https://arxiv.org/abs/1908.10084)
