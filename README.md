@@ -11,7 +11,7 @@ This project introduces an AI-powered solution to automate two crucial HR proces
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Modeling Approach](#-modeling-approach)
-- [References]
+- [References](#-References)
 
 ---
 
