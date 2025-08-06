@@ -40,8 +40,17 @@ This project introduces an AI-powered solution to automate two crucial HR proces
 
 ```bash
 # Clone the repo
-git clone https://github.com/lovely05-sjsu/ML-project.git
-cd ML-project
+git clone # Clone the repo
+git clone https://github.com/lovely05-sjsu/ML-Based-Resume-Ranking-Personalized-Interview-System.git
+cd ML-Based-Resume-Ranking-Personalized-Interview-System
+
+# (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows use venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+cd ML-Based-Resume-Ranking-Personalized-Interview-System
 
 # (Optional) Create a virtual environment
 python -m venv venv
