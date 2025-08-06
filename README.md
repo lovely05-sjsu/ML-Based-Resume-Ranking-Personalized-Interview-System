@@ -7,15 +7,11 @@ This project introduces an AI-powered solution to automate two crucial HR proces
 ## Table of Contents
 
 - [Features](#-features)
-- [Demo](#-demo)
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Modeling Approach](#-modeling-approach)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Authors](#-authors)
+- [References]
 
 ---
 
@@ -73,40 +69,6 @@ pip install -r requirements.txt
 - **Resume Ranking**: Semantic similarity using Sentence-BERT & classification via Random Forest/XGBoost.
 - **Interview Generation**: GPT/T5 models used to generate contextually relevant questions.
 - **Explainability**: SHAP plots to explain why a resume was selected or rejected.
-
----
-
-## Screenshots
-
-| Main Dashboard | Resume Upload | Result |
-|----------------|----------------|--------|
-| ![Main](assets/screenshot_main.png) | ![Upload](assets/screenshot_upload.png) | ![Output](assets/screenshot_output.png) |
-
-> *(Add screenshots to `assets/` folder and update the links accordingly)*
-
----
-
-## Contributing
-
-We welcome contributions! Please fork the repository and submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Authors
-
-- [Devarsh Patel](mailto:devarshnatvarlal.patel@sjsu.edu)
-- [Smit Ardeshana](mailto:smitarvindkumar.ardeshana@sjsu.edu)
-- [Dharmitkumar Patel](mailto:dharmitkumarsureshbhai.patel@sjsu.edu)
-- [Shatayu Thakur](mailto:shatayu.thakur@sjsu.edu)
-- [Lovely Priya](mailto:lovely@sjsu.edu)
-- [Mansi Tanna](mailto:mansisanjaybhai.tanna@sjsu.edu)
-- [Sai Swetha Madapati](mailto:saiswetha.madapati@sjsu.edu)
 
 ---
 
