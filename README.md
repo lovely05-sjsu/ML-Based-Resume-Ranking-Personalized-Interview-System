@@ -81,6 +81,28 @@ pip install -r requirements.txt
 
 ---
 
+## 📸 App Demo Screenshots
+
+### 🧾 Upload Resume & Job Description
+
+<p align="center">
+ <img width="1600" height="546" alt="image" src="https://github.com/user-attachments/assets/5293e046-a1f4-42f0-b1b8-f08fda8e759f" />
+</p>
+
+### 📁 Upload Multiple Resumes and Select Top N
+
+<p align="center">
+  <img width="1600" height="655" alt="image" src="https://github.com/user-attachments/assets/50fa1e2d-366c-4236-b350-c733368d11c5" />
+</p>
+
+
+### ✅ Shortlisted Candidates with Similarity Score
+
+<p align="center">
+  <img width="1600" height="655" alt="image" src="https://github.com/user-attachments/assets/775728b0-87a2-4f8e-9345-c04a6b1fba36" />
+</p>
+
+
 ## References
 
 Key technologies used:
